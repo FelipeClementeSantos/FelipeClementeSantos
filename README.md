@@ -3,7 +3,7 @@
 <p align="left"> <img width=15% src="https://komarev.com/ghpvc/?username=FelipeClementeSantos&label=Profile%20views&color=5484F5&style=flat" alt="FelipeClementeSantos" /> </p>
  &nbsp;&nbsp;&nbsp;
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5484F5&size=45&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Felipe+Clemente;I'm+24+years+old;I'm+from+São+Paulo,+Brasil;I+study+Front-end+at+Udemy+and;I+study+Cloud+at+Udemy;Be+Welcome!+:%29)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5484F5&size=45&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Felipe+Clemente;I'm+24+years+old;I'm+from+São+Paulo,+Brasil;I+study+Front-end+at+Udemy+and;I+study+DBA+at+Udemy;Be+Welcome!+:%29)](https://git.io/typing-svg)
  &nbsp;
  &nbsp;
 
