@@ -7,8 +7,7 @@
  &nbsp;
  &nbsp;
 
-
-<p align="center">On a great learning journey ❤ in constant development with the aim of contributing to technology.</p>&nbsp;
+<p align="center">On a great learning journey.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=47% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=FelipeClementeSantos&theme=radical&mode=weekly" />
@@ -17,8 +16,6 @@
  
  &nbsp;
  &nbsp;
-
-
 
 ## My Skills
 
@@ -56,7 +53,5 @@
 </div>&nbsp;&nbsp;
  
 
-  
-  
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5484F5&height=120&section=footer"/>
 
