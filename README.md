@@ -10,7 +10,7 @@
 <p align="center">On a great learning journey.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=FelipeClementeSantos&theme=radical&mode=weekly" />
+<img width=56% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=FelipeClementeSantos&theme=radical&mode=weekly" />
 <img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=FelipeClementeSantos&show_icons=true&theme=radical&layout=compact" />
 </div>
  
